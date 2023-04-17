@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PAW8YwjwJrgz8AVE/LlUsRdlBopgMmt69750BOmp1yF/kTab0qZlQ9JuENDSxzCXCNnnWmQqRLdMpt57F2GGjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ardae\\OneDrive\\Masaüstü\\P#2\\Assignment3\\Assignment3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ardae\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ardae\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ardae\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ardae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

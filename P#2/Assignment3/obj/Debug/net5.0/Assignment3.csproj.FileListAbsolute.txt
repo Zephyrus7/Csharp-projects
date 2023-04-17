@@ -1,0 +1,48 @@
+C:\Users\drew\Source\Repos\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.exe
+C:\Users\drew\Source\Repos\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.deps.json
+C:\Users\drew\Source\Repos\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.runtimeconfig.json
+C:\Users\drew\Source\Repos\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.runtimeconfig.dev.json
+C:\Users\drew\Source\Repos\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.dll
+C:\Users\drew\Source\Repos\Assignment3\Assignment3\bin\Debug\net5.0\ref\Assignment3.dll
+C:\Users\drew\Source\Repos\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.pdb
+C:\Users\drew\Source\Repos\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.csprojAssemblyReference.cache
+C:\Users\drew\Source\Repos\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drew\Source\Repos\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.AssemblyInfoInputs.cache
+C:\Users\drew\Source\Repos\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.AssemblyInfo.cs
+C:\Users\drew\Source\Repos\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\drew\Source\Repos\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.dll
+C:\Users\drew\Source\Repos\Assignment3\Assignment3\obj\Debug\net5.0\ref\Assignment3.dll
+C:\Users\drew\Source\Repos\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.pdb
+C:\Users\drew\Source\Repos\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.genruntimeconfig.cache
+C:\Users\ardae\Documents\CANADA\Centennial College\COMP100\Assignments\Assignment3\bin\Debug\net5.0\Assignment3.exe
+C:\Users\ardae\Documents\CANADA\Centennial College\COMP100\Assignments\Assignment3\bin\Debug\net5.0\Assignment3.deps.json
+C:\Users\ardae\Documents\CANADA\Centennial College\COMP100\Assignments\Assignment3\bin\Debug\net5.0\Assignment3.runtimeconfig.json
+C:\Users\ardae\Documents\CANADA\Centennial College\COMP100\Assignments\Assignment3\bin\Debug\net5.0\Assignment3.runtimeconfig.dev.json
+C:\Users\ardae\Documents\CANADA\Centennial College\COMP100\Assignments\Assignment3\bin\Debug\net5.0\Assignment3.dll
+C:\Users\ardae\Documents\CANADA\Centennial College\COMP100\Assignments\Assignment3\bin\Debug\net5.0\ref\Assignment3.dll
+C:\Users\ardae\Documents\CANADA\Centennial College\COMP100\Assignments\Assignment3\bin\Debug\net5.0\Assignment3.pdb
+C:\Users\ardae\Documents\CANADA\Centennial College\COMP100\Assignments\Assignment3\obj\Debug\net5.0\Assignment3.csproj.AssemblyReference.cache
+C:\Users\ardae\Documents\CANADA\Centennial College\COMP100\Assignments\Assignment3\obj\Debug\net5.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardae\Documents\CANADA\Centennial College\COMP100\Assignments\Assignment3\obj\Debug\net5.0\Assignment3.AssemblyInfoInputs.cache
+C:\Users\ardae\Documents\CANADA\Centennial College\COMP100\Assignments\Assignment3\obj\Debug\net5.0\Assignment3.AssemblyInfo.cs
+C:\Users\ardae\Documents\CANADA\Centennial College\COMP100\Assignments\Assignment3\obj\Debug\net5.0\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\ardae\Documents\CANADA\Centennial College\COMP100\Assignments\Assignment3\obj\Debug\net5.0\Assignment3.dll
+C:\Users\ardae\Documents\CANADA\Centennial College\COMP100\Assignments\Assignment3\obj\Debug\net5.0\ref\Assignment3.dll
+C:\Users\ardae\Documents\CANADA\Centennial College\COMP100\Assignments\Assignment3\obj\Debug\net5.0\Assignment3.pdb
+C:\Users\ardae\Documents\CANADA\Centennial College\COMP100\Assignments\Assignment3\obj\Debug\net5.0\Assignment3.genruntimeconfig.cache
+E:\CANADA\Centennial College\Semester 1\COMP100\A3\Assignment3\bin\Debug\net5.0\Assignment3.exe
+E:\CANADA\Centennial College\Semester 1\COMP100\A3\Assignment3\bin\Debug\net5.0\Assignment3.deps.json
+E:\CANADA\Centennial College\Semester 1\COMP100\A3\Assignment3\bin\Debug\net5.0\Assignment3.runtimeconfig.json
+E:\CANADA\Centennial College\Semester 1\COMP100\A3\Assignment3\bin\Debug\net5.0\Assignment3.runtimeconfig.dev.json
+E:\CANADA\Centennial College\Semester 1\COMP100\A3\Assignment3\bin\Debug\net5.0\Assignment3.dll
+E:\CANADA\Centennial College\Semester 1\COMP100\A3\Assignment3\bin\Debug\net5.0\Assignment3.pdb
+E:\CANADA\Centennial College\Semester 1\COMP100\A3\Assignment3\obj\Debug\net5.0\Assignment3.csproj.AssemblyReference.cache
+E:\CANADA\Centennial College\Semester 1\COMP100\A3\Assignment3\obj\Debug\net5.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+E:\CANADA\Centennial College\Semester 1\COMP100\A3\Assignment3\obj\Debug\net5.0\Assignment3.AssemblyInfoInputs.cache
+E:\CANADA\Centennial College\Semester 1\COMP100\A3\Assignment3\obj\Debug\net5.0\Assignment3.AssemblyInfo.cs
+E:\CANADA\Centennial College\Semester 1\COMP100\A3\Assignment3\obj\Debug\net5.0\Assignment3.csproj.CoreCompileInputs.cache
+E:\CANADA\Centennial College\Semester 1\COMP100\A3\Assignment3\obj\Debug\net5.0\Assignment3.dll
+E:\CANADA\Centennial College\Semester 1\COMP100\A3\Assignment3\obj\Debug\net5.0\refint\Assignment3.dll
+E:\CANADA\Centennial College\Semester 1\COMP100\A3\Assignment3\obj\Debug\net5.0\Assignment3.pdb
+E:\CANADA\Centennial College\Semester 1\COMP100\A3\Assignment3\obj\Debug\net5.0\Assignment3.genruntimeconfig.cache
+E:\CANADA\Centennial College\Semester 1\COMP100\A3\Assignment3\obj\Debug\net5.0\ref\Assignment3.dll
